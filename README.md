@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Lab One 👋</h1>
+<h1 align="center">Welcome to Lab Three 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/alikahwaji/Lab-template#readme" target="_blank">
@@ -28,7 +28,7 @@
 
 Feedbacks, issues and requests will be in the issues page!<br />Feel free to check [issues page](https://github.com/alikahwaji/Lab-template/issues). You can also take a look at the [GitHub guide](https://guides.github.com/).
 
-## ⭐️ Lab Instructions 
+## ⭐️ Lab Three Instructions 
 
 Check the :white_check_mark: Todos & :x: Not Todos 
 
@@ -49,12 +49,9 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :page_facing_up: Lab One Description
 
-:arrow_right: `Write a 300 words introduction about GitHub Inc., what was the motivation behind starting a version control system? And what are the latest
-features in GitHub?`
+:arrow_right: `Follow the class activity instruction [05/8/2021], provide the code of all projects provided in class using this repository`
 
-:arrow_right: `What is Git? list at least 10 Git commands and explain each one of them.` 
-
-:arrow_right: `Provide for each Git command you expalin a diagram that visulaize it's functionality`
+:arrow_right: `In your journal, write the pros and cons of using P5.js library` 
 
 :arrow_right: `You must use NMIT APA 7th ed. Referencing Guide`
 
